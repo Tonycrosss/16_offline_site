@@ -1,6 +1,11 @@
 # New Site Template
 
-[TODO. There will be project description]
+This is a new site Template, but without internet require.
+All dependencies are loaded locally
+
+# Usage Example
+
+Just open index.html with your favourite browser!
 
 # Project Goals
 
